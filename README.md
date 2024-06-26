@@ -8,13 +8,13 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/1544937/jacob-philpott?tab=profile">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/stackoverflow.png">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InnoNodo/InnoNodo/main/img/telegram.png">
         <img src="https://raw.githubusercontent.com/InnoNodo/InnoNodo/main/img/telegram.png" width="42" height="42">
     </picture>
 </a>
 
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/jgphilpott/github-readme-stats">
+<a href="https://t.me/nodoser">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=InnoNodo&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=InnoNodo&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true">
