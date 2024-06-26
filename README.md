@@ -1,15 +1,27 @@
 <a href="https://github.com/jgphilpott/github-readme-stats">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime/?username=nodo&hide_title=true&langs_count=7&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&title_color=50c1fa&text_color=ffffff&layout=donut-vertical&exclude_repo=babel,convert">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InnoNodo&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical&exclude_repo=babel,convert">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime/?username=nodo&hide_title=true&langs_count=7&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&display_format=true&title_color=50c1fa&text_color=ffffff&layout=donut-vertical&exclude_repo=babel,convert">
+        <img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InnoNodo&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical&exclude_repo=babel&width=320">
     </picture>
 </a>
+
+[//]: # (<a href="https://github.com/anuraghazra/github-readme-stats">)
+
+[//]: # (  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />)
+
+[//]: # (</a>)
+
+[//]: # (<a href="https://github.com/anuraghazra/convoychat">)
+
+[//]: # (  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nodo&layout=compact&langs_count=8&card_width=320" />)
+
+[//]: # (</a>)
 
 &nbsp;&nbsp;&nbsp;
 <a href="https://t.me/nodoser">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InnoNodo/InnoNodo/main/img/telegram.png">
-<img src="https://raw.githubusercontent.com/InnoNodo/InnoNodo/main/img/telegram.png" width="42" height="42">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InnoNodo/InnoNodo/main/img/telegram.png">
+    <img src="https://raw.githubusercontent.com/InnoNodo/InnoNodo/main/img/telegram.png" width="42" height="42">
 </picture>
 </a>
 
