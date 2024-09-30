@@ -36,7 +36,7 @@
 </a>
 
 <h3 align="center">
-    <a href="https://www.githubtrends.io/wrapped/jgphilpott">
+    <a href="https://www.githubtrends.io/wrapped/InnoNodo">
         More Stats
     </a>
 </h3>
